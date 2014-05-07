@@ -1,0 +1,14 @@
+ length 3 frequent itemsets: 0
+
+ length 2 frequent itemsets: 5
+Support-Count=4.0 : {5,2}
+Support-Count=3.0 : {5,1}
+Support-Count=4.0 : {5,3}
+Support-Count=3.0 : {5,4}
+Support-Count=5.0 : {2,3}
+
+ length 1 frequent itemsets: 3
+Support-Count=7.0 : {5}
+Support-Count=8.0 : {2}
+Support-Count=9.0 : {3}
+
